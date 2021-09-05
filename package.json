@@ -1,0 +1,15 @@
+{
+  "name": "test-k6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "WTFPL",
+  "devDependencies": {
+    "@types/k6": "^0.32.2"
+  }
+}
